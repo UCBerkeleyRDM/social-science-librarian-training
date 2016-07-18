@@ -1,0 +1,61 @@
+3. A template readme file for researchers in the social sciences
+A readme.txt file is a document that gives users important information about other files in a digital object or collection of objects. They are a form of documentation.
+Georgia Tech readme: http://d7.library.gatech.edu/research-data/readme
+Cornell’s RDM group has a terrific comprehensive guide to creating readme files: http://data.research.cornell.edu/content/readme
+A beginner’s guide to creating a readme: https://changelog.com/a-beginners-guide-to-creating-a-readme/
+
+
+Notes
+Create a file, upload it to figshare, get iframe, embed in Guide 
+If data are sensitive, consider including that kind of information in a separate file
+
+readme can serve as very lightweight documentation for datasets that don’t require a lot of explanatory additional text. Many people make a readme that contains all the variable names, etc. -- essentially a codebook. Our goal here is to keep the readme much more brief than that.
+- file format and extension
+- software used, and version
+- PI contact information
+- date/location of data collection
+- method of collection
+- licensing information
+
+Other ideas: 
+The ICPSR study homepage (example; UC Berkeley login required) includes a set of information about the study. The section headings -- Citation, Funding, Scope of Study, Variables, etc. -- can serve as a template for the readme document created by the researcher planning to deposit the data at ICPSR. More generally, a researcher might check with his or her intended repository to see what types of information it will require.
+
+
+TEMPLATE Readme:
+
+This dataset was created in [location] by [PI and contact info].
+
+These data are part of [study name & where applicable, article title & DOI]. [Description of study]
+
+This dataset includes:
+[File: Data] [Description of file] [File format]
+[File: Graphics] [Description of file] [File format]
+[File: Codebook] [Description of codebook] [File format]
+[File: Questionnaire/Survey] [description of survey] [file format]
+[File: Code] [description of code used to process data] [file formats]
+Preferred Citation: [full citation for dataset]
+
+Funding: This study was funded by [funder names]. 
+Methodology: [data sources or data collection notes, sampling method, etc.] [notes on processing used] (optional)
+Disclosure risk: [security level x; contains identifiable information, contains publicly available data, contains open census data, etc.]
+Licensing: [restricted to research institution, open access, embargoed for x years]
+Version: [version x] [point to previous versions]
+
+EXAMPLE Readme:
+
+This dataset was created in Berkeley, California by Jane Doe, Sociology and contact info].
+Comparison of early and mid-career librarian salaries
+
+Librarian Salaries
+[early_career.csv] [salaries for early career librarians] [CSV]
+[mid_career.csv] [salaries for mid career librarians] [CSV]
+[codebook.txt] [description of variable and value names & labels] [Text]
+[lib_trend_viz.jpg] [visualization of early v. mid career salaries] [JPEG]
+[survey_questions_answers.qsf] [survey distributed to participants and responses] [Qualtrics]
+[survey_questions.pdf] [survey distributed to participants] [PDF]
+[survey_process.py] [script to pull data from survey] [Python]
+
+ 
+
+
+
