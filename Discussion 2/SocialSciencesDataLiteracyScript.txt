@@ -1,0 +1,37 @@
+﻿Student: I read about a study that says you only need to exercise for one minute a day. Where can I get that?
+
+
+Librarian: Okay, I can help you find peer reviewed articles. Can you tell me more about what you read?
+
+
+Student: The science showed that if you exercise for one minute, it’s like exercising for 45 minutes. I read about it online. (http://elitedaily.com/life/1-minute-workout-gives-results-45-minute-workout-science-says/1476308/)
+
+
+Librarian: Let’s see if we can find the article this references. (http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0154075)
+
+
+Oh, I see that it was published in PLOS ONE, where the authors had to publish their data along with their findings. Let’s take a look at their protocol and their conclusion:
+“Twelve weeks of brief intense interval exercise improved indices of cardiometabolic health to the same extent as traditional endurance training in sedentary men, despite a five-fold lower exercise volume and time commitment.”
+
+
+Student: Uhh, what does that mean? 
+
+
+Librarian: Let’s look more closely at their data and whether it supports those results.
+
+
+Student: Oh, so… [looking]... they exercised for 10 minutes, with 3 20-second intervals. So not just one minute? 
+
+
+Librarian: And look--they were only looking for insulin sensitivity, cardiorespiratory fitness, and skeletal muscle mitochondrial content. That’s only one aspect of fitness.
+
+
+Student: So… and the subjects doing intervals were younger, taller, and had a slightly higher BMI than the moderate intensity group. [Thinking] Does that make a difference?
+
+
+Librarian: Great observation - that’s a methodological question, and something that an expert in Kinesiology could tell you more about. Why don’t I help you to access a few more resources on this, and you can email your professor about the methodology?
+
+
+
+
+Summary: what this does is help a student make connections between publicized research results, the original article, and then take a look at the actual data/findings and methodology used. This is one way to approach information literacy if students are looking to dip into science starting from the popular media...
